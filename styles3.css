@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.img {
+    width: 150px;
+    height: 100px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 5px;
+    background-image: linear-gradient( rgb(185, 173, 173) 30%, rgb(225, 229, 234) 60%, rgb(57, 51, 51) 100%);
+}
+
+.border-black {
+    border: 1px solid black;
+}
+
+
